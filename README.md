@@ -5,4 +5,4 @@
 <p align="center">  
 <a href="https://github.com/muhammed-shakkeer"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
 <p align="center">  
-<a href="https://t.me/@muh4mmd"><img src="https://img.shields.io/badge/telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=32D651"></a>
+<a href="https://t.me/@muh4mmd"><img src="https://img.shields.io/badge/telegram-5A8FBB?style=for-the-badge&logo=telegram&logoColor=FFFFFF"></a>
